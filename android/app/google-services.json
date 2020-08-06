@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350443776081",
+    "firebase_url": "https://coriander-app-e0801.firebaseio.com",
+    "project_id": "coriander-app-e0801",
+    "storage_bucket": "coriander-app-e0801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350443776081:android:fc68b81ed43e3b029ef070",
+        "android_client_info": {
+          "package_name": "com.example.coriander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350443776081-0672mkjqrpopr0guadmtphnjp1hm3n0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcwnym5ylS3PytRSNUKwLdRfXPfjHPls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350443776081-0672mkjqrpopr0guadmtphnjp1hm3n0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
