@@ -1,3 +1,4 @@
+import 'package:coriander/book_list_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -33,7 +34,10 @@ class MyApp extends StatelessWidget {
                       child: Text('ボタン'),
                       onPressed: () {
                         //todo
-                        model.changeKboyText();
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => BookListPage()),
+                        );
                       },
                     ),
                   ],
